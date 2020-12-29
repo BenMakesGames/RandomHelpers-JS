@@ -1,0 +1,25 @@
+{
+  "name": "random-helpers",
+  "version": "0.8.0",
+  "description": "Extensions for Math to help you generate random content. HEY, LISTEN: this library was designed for use in games; no effort has been made to make these methods cryptographically secure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenMakesGames/RandomHelpers-JS.git"
+  },
+  "keywords": [
+    "random",
+    "rng",
+    "procgen",
+    "games"
+  ],
+  "author": "Ben Hendel-Doying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenMakesGames/RandomHelpers-JS/issues"
+  },
+  "homepage": "https://github.com/BenMakesGames/RandomHelpers-JS#readme"
+}
