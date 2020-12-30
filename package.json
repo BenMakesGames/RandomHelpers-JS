@@ -1,8 +1,8 @@
 {
   "name": "random-helpers",
-  "version": "0.8.1",
-  "description": "Extensions for Math to help you generate random content. HEY, LISTEN: this library was designed for use in games; no effort has been made to make these methods cryptographically secure.",
-  "main": "index.js",
+  "version": "0.9.0",
+  "description": "TypeScript extensions for Math to help you generate random content. HEY, LISTEN: this library was designed for use in games; no effort has been made to make these methods cryptographically secure.",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
