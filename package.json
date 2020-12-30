@@ -1,6 +1,6 @@
 {
   "name": "random-helpers",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Extensions for Math to help you generate random content. HEY, LISTEN: this library was designed for use in games; no effort has been made to make these methods cryptographically secure.",
   "main": "index.js",
   "scripts": {

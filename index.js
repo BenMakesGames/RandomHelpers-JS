@@ -1,3 +1,5 @@
+"use strict";
+
 Math.randomInt = function(exclusiveMax) {
     return Math.floor(Math.random() * exclusiveMax);
 };
@@ -25,3 +27,5 @@ Math.randomString = function(allowedCharacters, length) {
 Math.randomBool = function() {
     return Math.random() < 0.5;
 };
+
+export {}
